@@ -1,4 +1,4 @@
-[![Header](https://github.com/rahulkarda/rahulkarda/blob/main/header.png?raw=true "Header")](https://bhavesh-meghwal.netlify.app)
+[![Header](https://github.com/BhaveshMeghwal/BhaveshMeghwal/blob/main/mountains-1412683_1280.png "Header")](https://bhavesh-meghwal.netlify.app)
 
 <p align="center">
   <a href="https://bhavesh-meghwal.netlify.app/" target="_blank">
