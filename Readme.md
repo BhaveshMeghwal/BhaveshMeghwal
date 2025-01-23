@@ -7,13 +7,13 @@
   <a href="www.linkedin.com/in/bhavesh-meghwal-b6ba88220" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/rahulkarda2002" target="_blank">
+  <a href="https://x.com/Bhaveshmeghwa17" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://dev.to/rahulkarda" target="_blank">
+  <!-- <a href="https://dev.to/rahulkarda" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
-  </a>
-  <a href="resume.pdf" target="_blank" download="resume.pdf">
+  </a> -->
+  <a href="resum,le.pdf" target="_blank" download="resklume.pdf">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
